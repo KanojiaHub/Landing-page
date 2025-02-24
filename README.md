@@ -31,19 +31,6 @@ Vortex-Classes-LandingPage/
 │-- README.md
 ```
 
-## 📷 Screenshots
-![Landing Page Screenshot](images/screenshot.png)
-
-## 💻 Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/vortex-classes-landing.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd vortex-classes-landing
-   ```
-3. Open `index.html` in your browser.
 
 ## 🎯 How to Use
 - Navigate through the sections to learn about **Vortex Classes**.
